@@ -224,9 +224,11 @@ body {
 }
 
 .nine p {
-  
+  margin: auto;
+  text-align: justify;
   font-size: 1.6rem;
   font-weight: lighter;
+  
 }
 
 #replay {
@@ -295,7 +297,9 @@ body {
   }
 
   .nine p {
-    font-size: 1.5rem;
+    margin: auto;
+    text-align: justify;
+    font-size: 1.0rem;
     font-weight: lighter;
   }
 }
